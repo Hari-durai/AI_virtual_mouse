@@ -19,7 +19,7 @@ This project demonstrates how to create a virtual mouse using the Mediapipe libr
 1. Clone this repository to your local machine.
    
 ```bash
-git clone https://github.com/yourusername/virtual-mouse.git
+git clone https://github.com/Hari-durai/AI-virtual-mouse.git
 ```
 
 2. Navigate to the project directory.
@@ -31,7 +31,7 @@ cd virtual-mouse
 3. Run the `virtual_mouse.py` script.
 
 ```bash
-python virtual_mouse.py
+python virtual_mouse.ipynb
 ```
 
 4. A window will open showing your webcam feed with hand tracking landmarks. Move your hand within the frame to control the mouse cursor.
@@ -62,6 +62,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Remember to replace `"yourusername"` in the repository URL with your actual GitHub username if you plan to host the code on your GitHub repository.
 
-This README provides a basic guide to get you started. Depending on your requirements, you can further enhance the project by adding more gestures, refining cursor control, or integrating other functionalities.
