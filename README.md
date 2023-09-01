@@ -1,7 +1,9 @@
 # AI_virtual_mouse
 Creating a virtual mouse using Mediapipe involves utilizing hand tracking to control the mouse cursor's movement and clicks. Here's a simple README file to guide you through the process:
+![Screenshot (122)](https://github.com/Hari-durai/AI_virtual_mouse/assets/91016875/23a677cc-17ff-4b3b-a887-aea16d8a1f93)
 
 ---
+
 
 # Virtual Mouse Using Mediapipe
 
